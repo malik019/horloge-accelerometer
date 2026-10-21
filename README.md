@@ -23,3 +23,10 @@ The workspace is organized following standard hardware engineering practices:
 
 ## ⚙️ Tools Used
 * **EDA Tool:** KiCad (Schematic Capture, PCB Layout, and 3D Visualizer Integration)
+
+## 📺 Demo Video
+Click the image below to watch the hardware platform and interface in action:
+
+[![Watch the video](https://shields.io)](https://1drv.ms/v/c/b2abd14c679eea6b/IQBb18cBuQbQQaUBIMpuPMWnAfBBgvG3fzTZn4pLQCEiL4w?e=841tbs)
+
+*[Click here to watch the full project demonstration if the badge above doesn't open.](https://1drv.ms/v/c/b2abd14c679eea6b/IQBb18cBuQbQQaUBIMpuPMWnAfBBgvG3fzTZn4pLQCEiL4w?e=841tbs)*
